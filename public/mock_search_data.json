@@ -1,0 +1,62 @@
+[
+  {
+    "file": "Jail_Call_0411.wav",
+    "type": "audio",
+    "date": "2024-04-11",
+    "tags": [
+      "alibi",
+      "code"
+    ],
+    "summary": "Suspect hints at alibi. Discusses 'box' in coded terms.",
+    "transcript": [
+      {
+        "time": "00:00:45",
+        "text": "I was at the warehouse that night."
+      },
+      {
+        "time": "00:02:12",
+        "text": "Don't talk about the box, not on this line."
+      }
+    ]
+  },
+  {
+    "file": "Interview_Apr14.mp4",
+    "type": "video",
+    "date": "2024-04-14",
+    "tags": [
+      "gun",
+      "location"
+    ],
+    "summary": "Emotional moment, weapon reference, and place mentioned.",
+    "transcript": [
+      {
+        "time": "00:01:10",
+        "text": "He said something about a gun in the backseat."
+      },
+      {
+        "time": "00:03:22",
+        "text": "We were near 2nd Street around 10pm."
+      }
+    ]
+  },
+  {
+    "file": "Surveillance_Mar22.mov",
+    "type": "video",
+    "date": "2024-03-22",
+    "tags": [
+      "suspicious",
+      "vehicle"
+    ],
+    "summary": "Suspicious movement and a second subject appear.",
+    "transcript": [
+      {
+        "time": "00:00:34",
+        "text": "A vehicle stops, figure moves to back door."
+      },
+      {
+        "time": "00:01:45",
+        "text": "Unidentified person exits and heads east."
+      }
+    ]
+  }
+]
